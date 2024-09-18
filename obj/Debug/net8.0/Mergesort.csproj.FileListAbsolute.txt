@@ -1,0 +1,14 @@
+C:\Users\emil_\source\repos\Mergesort\obj\Debug\net8.0\Mergesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil_\source\repos\Mergesort\obj\Debug\net8.0\Mergesort.AssemblyInfoInputs.cache
+C:\Users\emil_\source\repos\Mergesort\obj\Debug\net8.0\Mergesort.AssemblyInfo.cs
+C:\Users\emil_\source\repos\Mergesort\obj\Debug\net8.0\Mergesort.csproj.CoreCompileInputs.cache
+C:\Users\emil_\source\repos\Mergesort\bin\Debug\net8.0\Mergesort.exe
+C:\Users\emil_\source\repos\Mergesort\bin\Debug\net8.0\Mergesort.deps.json
+C:\Users\emil_\source\repos\Mergesort\bin\Debug\net8.0\Mergesort.runtimeconfig.json
+C:\Users\emil_\source\repos\Mergesort\bin\Debug\net8.0\Mergesort.dll
+C:\Users\emil_\source\repos\Mergesort\bin\Debug\net8.0\Mergesort.pdb
+C:\Users\emil_\source\repos\Mergesort\obj\Debug\net8.0\Mergesort.dll
+C:\Users\emil_\source\repos\Mergesort\obj\Debug\net8.0\refint\Mergesort.dll
+C:\Users\emil_\source\repos\Mergesort\obj\Debug\net8.0\Mergesort.pdb
+C:\Users\emil_\source\repos\Mergesort\obj\Debug\net8.0\Mergesort.genruntimeconfig.cache
+C:\Users\emil_\source\repos\Mergesort\obj\Debug\net8.0\ref\Mergesort.dll
